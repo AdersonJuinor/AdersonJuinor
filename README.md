@@ -21,3 +21,5 @@ Meu primeiro contato com a programação foi aos 14 anos quando conheci o HTML, 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/extractuswands02/) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9GMAPMCqQB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aderson-junior-66335525a)
+
+![Snake animation](https://github.com/AdersonJuinor/AdersonJuinor/blob/main/.github/workflows/blank.yml)
