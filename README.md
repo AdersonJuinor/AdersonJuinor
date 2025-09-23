@@ -3,7 +3,7 @@
 # 🎮 **PLAYER PROFILE** 🎮
 ### *XP Desenvolvedor em Ascensão XP*
 
-<img fonte = https://readme-typing-svg.herokuapp.com/demo/?color=0046F7&width=440&lines=Carregando+perfil+do+jogador...;Aderson+Junior;Desenvolvimento+Full+Stack+;Especialista+em+Transforma%C3%A7%C3%A3o+Digital+/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0046F7&width=440&lines=Carregando+perfil+do+jogador...;Aderson+Junior;Desenvolvimento+Full+Stack+;Especialista+em+Transforma%C3%A7%C3%A3o+Digital+)](https://git.io/typing-svg)
 </div>
 
 </div>
@@ -14,7 +14,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│   NOME: Otávio Nascimento                                   │
+│   NOME: Aderson Junior                                  │
 │   Objetivo atual: Conquistar Full Stack Dev                 │
 │   LOCALIZAÇÃO: Florianópolis - Itacorubi                    │
 │   LEVEL: Junior Developer (XP em crescimento!)              │
