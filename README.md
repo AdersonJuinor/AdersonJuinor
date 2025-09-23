@@ -3,7 +3,7 @@
 # 🎮 **PLAYER PROFILE** 🎮
 ### *XP Desenvolvedor em Ascensão XP*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Carregando+perfil+do+jogador...;Ot%C3%A1vio+Nascimento;Desenvolvedor+Full+Stack;Especialista+em+Transforma%C3%A7%C3%A3o+Digital;Ready+to+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<img fonte = https://readme-typing-svg.herokuapp.com/demo/?color=0046F7&width=440&lines=Carregando+perfil+do+jogador...;Aderson+Junior;Desenvolvimento+Full+Stack+;Especialista+em+Transforma%C3%A7%C3%A3o+Digital+/>
 </div>
 
 </div>
